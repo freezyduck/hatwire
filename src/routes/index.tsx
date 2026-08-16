@@ -66,7 +66,7 @@ const SECTORS = ["Defence", "UAV", "C4ISR", "Industrial", "Transportation"];
 
 const EMAIL_DIRECT = "marcin.kolodziej@hatwire.com.pl";
 const EMAIL_GENERAL = "contact@hatwire.com.pl";
-const LINKEDIN = "https://www.linkedin.com/in/marcin-ko%C5%82odziej-hatwire";
+const LINKEDIN = "https://www.linkedin.com/in/marcin-kolodziej-hatwire";
 
 function Index() {
   return (
