@@ -62,7 +62,7 @@ const EXPERIENCE = [
   "Industrial monitoring systems",
 ];
 
-const SECTORS = ["Defence", "UAV", "C4ISR", "Industrial", "Transportation"];
+const SECTORS = ["Defence", "UAV", "C4ISR", "Industrial"];
 
 const EMAIL_DIRECT = "marcin.kolodziej@hatwire.com.pl";
 const EMAIL_GENERAL = "contact@hatwire.com.pl";
